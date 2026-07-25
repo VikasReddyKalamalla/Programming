@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Day1bitmanipulation",
+      "request": "launch",
+      "mainClass": "DSA.BitManipulation.Day1bitmanipulation",
+      "projectName": "Programming_11e76ca0"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
